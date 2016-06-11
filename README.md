@@ -1,2 +1,2 @@
 # loop-me-harder
-make your tab awesome
+use Alt+Shift+P to make your tab more awesome!
