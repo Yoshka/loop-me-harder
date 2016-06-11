@@ -13,7 +13,7 @@
 	"commands": {
 		"run-forrest-run": {
 			"suggested_key": {
-				"default": "Alt+Shift+P"
+				"default": "Ctrl+M"
 			},
 			"description": "make your tab awesome"
 		}
