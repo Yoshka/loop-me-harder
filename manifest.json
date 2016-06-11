@@ -1,0 +1,22 @@
+{
+	"name": "Loop me harder",
+	"version": "0.1",
+	"description": "make your tab awesome",
+	"background": {
+		"persistent": false,
+		"scripts": ["background.js"]
+	},
+	"permissions": [
+		"tabs",
+		"activeTab"
+	],
+	"commands": {
+		"run-forrest-run": {
+			"suggested_key": {
+				"default": "Alt+Shift+P"
+			},
+			"description": "make your tab awesome"
+		}
+	},
+	"manifest_version": 2
+}
